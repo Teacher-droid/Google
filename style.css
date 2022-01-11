@@ -41,16 +41,30 @@ nav a:hover {
 	text-decoration: underline;
 	opacity: .85;
 }
-nav img {
-	width: 34px;
-	padding: 5px;
+
+nav img 
+{
+	display: inline-block;
+	width: 20px;
 	margin: auto 7px;
 	cursor: pointer;
 }
-nav img:hover {
-	opacity: .8;
-    /* border: ; */
-    /* border-radius: 30px; */
+
+
+.grey 
+{
+	background-color: #ffffff;
+	width: 45px;
+	height: 45px;
+	padding-left: -12px;
+	padding-top: 12px;
+	border-radius: 50px;
+}
+
+.grey:hover
+{
+	background-color: #f2f2f2;
+
 }
 
 nav button {
