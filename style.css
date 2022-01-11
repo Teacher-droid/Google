@@ -53,6 +53,18 @@ nav img:hover {
     /* border-radius: 30px; */
 }
 
+nav button {
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background: #4285f4;
+	color: #fff;
+	padding: 7px 12px;
+	border-radius: 3px;
+	margin-left: 7px;
+	cursor: pointer;
+}
+
 
 /* fin nav bar  */
 
